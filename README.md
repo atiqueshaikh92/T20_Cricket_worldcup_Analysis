@@ -8,3 +8,6 @@ Successful data analysis can attract sponsors and advertisers. Brands look for t
 Commentators use statistics during live matches to provide context and enrich the viewing experience.
 Fantasy cricket leagues rely on player performance data. Fans create virtual teams based on real-world statistics.
 In summary, T20 World Cup data analysis isn’t just about numbers; it’s about unlocking insights that impact team performance, fan engagement, and the overall cricket ecosystem.
+Based on criteria we select the best all rounder, Opener, Middle order, Finisher and bowlers
+Based on the criteria we select our best probable World X1
+We can check the statistic for each individual players
